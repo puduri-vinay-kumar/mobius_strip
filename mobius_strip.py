@@ -89,7 +89,7 @@ class MobiusStrip:
         fig = plt.figure(figsize=(10, 6))
         ax = fig.add_subplot(111, projection='3d')
         ax.plot_surface(self.X, self.Y, self.Z, cmap='viridis', edgecolor='none', alpha=0.9)
-        ax.set_title("Möbius Strip")
+        ax.set_title("Mobius Strip")
         ax.set_xlabel("X")
         ax.set_ylabel("Y")
         ax.set_zlabel("Z")
