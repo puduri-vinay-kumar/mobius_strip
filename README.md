@@ -1,6 +1,6 @@
-# Möbius Strip Modeling in Python
+# Mobius Strip Modeling in Python
 
-This project implements a 3D parametric model of a **Möbius strip** using Python. It computes key geometric properties such as surface area and edge length through numerical methods and visualizes the surface in 3D.
+This project implements a 3D parametric model of a **Mobius strip** using Python. It computes key geometric properties such as surface area and edge length through numerical methods and visualizes the surface in 3D.
 
 ## 🌀 Features
 
